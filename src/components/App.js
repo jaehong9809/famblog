@@ -10,6 +10,8 @@ function App() {
     console.log(pw);
     if(pw==="9809"){
       Setisok(true);
+    }else{
+      alert("다시 입력하시오")
     }
   };
   const onChange = (event) => {
