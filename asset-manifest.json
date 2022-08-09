@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/famblog/static/css/main.9ff23e91.css",
+    "main.js": "/famblog/static/js/main.f3ba061b.js",
+    "index.html": "/famblog/index.html",
+    "main.9ff23e91.css.map": "/famblog/static/css/main.9ff23e91.css.map",
+    "main.f3ba061b.js.map": "/famblog/static/js/main.f3ba061b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff23e91.css",
+    "static/js/main.f3ba061b.js"
+  ]
+}
