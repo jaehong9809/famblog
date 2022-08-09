@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/famblog/static/css/main.9ff23e91.css",
-    "main.js": "/famblog/static/js/main.f3ba061b.js",
+    "main.js": "/famblog/static/js/main.9f349df6.js",
     "index.html": "/famblog/index.html",
     "main.9ff23e91.css.map": "/famblog/static/css/main.9ff23e91.css.map",
-    "main.f3ba061b.js.map": "/famblog/static/js/main.f3ba061b.js.map"
+    "main.9f349df6.js.map": "/famblog/static/js/main.9f349df6.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff23e91.css",
-    "static/js/main.f3ba061b.js"
+    "static/js/main.9f349df6.js"
   ]
 }
